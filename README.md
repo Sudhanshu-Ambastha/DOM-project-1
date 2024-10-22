@@ -4,7 +4,7 @@
 This project demonstrates the use of JavaScript's DOM manipulation methods to change the appearance of a `div` element on a webpage. Using `getElementById`, we target the `div` and apply various style changes, such as background color, margin, padding, font size, font weight, height, and width.
 
 ## Live Version
-The project is hosted on GitHub Pages and can be accessed here: [Live Project Link](#)
+The project is hosted on GitHub Pages and can be accessed here: [Live Project Link](https://sudhanshu-ambastha.github.io/DOM-project-1/)
 
 ## Instructions to View the Project
 1. Clone this repository using the following command:
